@@ -5,11 +5,11 @@ Krita is installed by running one of the following commands in your terminal. Yo
 #### via curl
 
 ```shell
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/roza-rio/krita-install//main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/roza-rio/krita-install/master/install.sh)"
 ```
 
 #### via wget
 
 ```shell
-bash -c "$(wget https://raw.githubusercontent.com/roza-rio/krita-install//main/install.sh -O -)"
+bash -c "$(wget https://raw.githubusercontent.com/roza-rio/krita-install/master/install.sh -O -)"
 ```
