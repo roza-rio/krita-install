@@ -1,0 +1,11 @@
+
+
+[Desktop Entry]
+Type=Application
+Name=Krita
+GenericName=Krita
+Comment=Krita is a professional FREE and open source painting program.
+Categories=graphics;
+Exec=krita
+Icon=krita.png
+StartupWMClass=Tor Browser
